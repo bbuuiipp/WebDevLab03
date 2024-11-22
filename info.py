@@ -12,23 +12,23 @@ github_image_url = "https://cdn-icons-png.flaticon.com/256/25/25231.png"
 email_image_url = "https://logowik.com/content/uploads/images/513_email.jpg"
 
 #CHANGE BELOW
-my_linkedin_url = "https://www.linkedin.com/in/spongebob-squarepants-44b857281/"
-my_github_url = "https://github.com/spongebob-squarepants"
-my_email_address = "spongebob@gmail.com"
+my_linkedin_url = "https://www.linkedin.com/in/nazar-khomenko/"
+my_github_url = "https://github.com/bbuuiipp"
+my_email_address = "nkhomenko3@gatech.edu"
 
 
 education_data ={
-    'Degree': 'Bachelor of Science in Computer Science',
+    'Degree': 'Bachelor of Engineering in Electrical Engineering',
     'Institution': 'Georgia Institute of Technology',
     'Location': 'Atlanta, GA',
-    'Graduation Date': 'Never',
-    'GPA': '4.0'
+    'Graduation Date': 'May 2028',
+    'GPA': '3.8'
 }
 course_data = {
-    "code":["CS 1301", "CS 1331", "MATH 1554", "CS 2050"], 
-    "names":["Intro to CS", "Intro to OOP", "Linear Algebra", "Discrete Mathematics"], 
-    "semester_taken":["2nd", "3rd", "2nd", "2nd"],
-    "skills":["Python is not my favorite snake anymore", "OOP(S!) (Java Edition)", "Basically row reduction", "If only my grade was discrete too..."],
+    "code":["CS 1301", "CHEM 1310", "MATH 1554"], 
+    "names":["Intro to CS", "Chem for Engineers", "Linear Algebra"], 
+    "semester_taken":["1st", "1st", "1st"],
+    "skills":["Python is not my favorite snake anymore", "OOP(S!) (Java Edition)", "Matricies oh no"],
     }
 experience_data = {
     "Cook at Krusty Krab": (["- Worked on designing the Krabby Patty Recipe",
@@ -55,19 +55,19 @@ programming_icons = {
     "Java": "☕",
     "C": "🔍",
 }
-spoken_icons = {"French": "🇫🇷",
-    "English": "🇬🇧",
-    "Spanish":"🇪🇸"
+spoken_icons = {"Ukrainian": "🇺🇦",
+    "English": "🇺🇸",
+    "Russian":"🇷🇺"
 }
 
 #CHANGE BELOW
 spoken_data = {
     "English": "Fluent",
-    "French": "Fluent",
-    "Spanish": "Fluent",
+    "Ukrainian": "Fluent",
+    "Russian": "Conversational",
 }
 leadership_data = {
-    "Driver at Mrs Puff's School": (["- Elected Worst Student of the Century"],"Images/puff.jpg"),
+    "Civil Air Patrol": (["- Cadet Commander \n - Aerospace Officer"],"Images/puff.jpg"),
 
 }
 activity_data={
