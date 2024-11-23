@@ -7,8 +7,8 @@ st.title("Web Development Lab03")
 # TODO: Fill out your team number, section, and team members
 
 st.header("CS 1301")
-st.subheader("Team XX, Web Development - Section X")
-st.subheader("Team Member 1, Team Member 2")
+st.subheader("Team 43, Web Development - Section B")
+st.subheader("Nazar Khomenko, Pablo Sobreviela")
 
 
 # Introduction
@@ -21,7 +21,7 @@ st.subheader("Team Member 1, Team Member 2")
 st.write("""
 Welcome to our Streamlit Web Development Lab03 app! You can navigate between the pages using the sidebar to the left. The following pages are:
 
-1.
+1. Nazar's Portfolio, showcasing some of the things he's done over the past 4 years :)
 2.
 3.
 4.

@@ -2,7 +2,7 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/profile.jpeg"
+profile_picture = "Images/DrawnTurtle.png"
 about_me = "I'm SpongeBobe Square Pants. I work at the Krusty Krab and I make fantastic Krabby Patties. "
 
 
@@ -31,29 +31,25 @@ course_data = {
     "skills":["Python is not my favorite snake anymore", "OOP(S!) (Java Edition)", "Matricies oh no"],
     }
 experience_data = {
-    "Cook at Krusty Krab": (["- Worked on designing the Krabby Patty Recipe",
-                                                                          "- Increased Company Revenue by 200 dollars", "- Made Mr. Krabs Proud"],"Images/cook.jpg"),
-    "Cleaner at Krusty Krab":(["- Made the floor almost reflective",
-                                                           "- Increased customer visits by three folds by making restaurant clean"],"Images/cleaner.jpg"),
-    "Jelly Fish Catcher":(["- Caught 100+ Jellyfish with the help of my colleague Patrick"],"Images/jelly.jpg")
+    "Director of sUAS operations at Intelliterra": (["- Led a 6-person team of engineers to integrate intelligent traffic avoidance onto an sUAS.",
+                                                                          "- Oversaw development of a custom drone control program for Surface Go 3.", "- Met with manufacturer to discuss future plans for design and production."],"Images/IntelliterraLogoVert.jpg"),
 
 }
 
 projects_data = {
-    "Krabby Patty Recipe": "Created the famous Recipe and tailored it from scratch",
+    "- Autonomous Target Tracking Tank": "Built autonomous target tracking tank that shot tennis balls junior year of high school ",
 }
 
 programming_data = {
-    "Python": 90,
-    "Java": 70,
-    "C": 40,
+    "Python": 80,
+    "C++": 50,
 }
 
 #CHANGE BELOW (OPTIONAL)
 programming_icons = {
     "Python": "🐍",
-    "Java": "☕",
-    "C": "🔍",
+    "C++": "🔍",
+
 }
 spoken_icons = {"Ukrainian": "🇺🇦",
     "English": "🇺🇸",

@@ -1,5 +1,5 @@
 import streamlit as st
-import info
+import Nazar_info as info
 import pandas as pd
 
 def about_me_section():
