@@ -1,3 +1,3 @@
 import streamlit as st
-import info
+import Pablo_info as info
 import pandas as pd

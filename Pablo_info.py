@@ -2,8 +2,8 @@
 #This File will contain the information to be displayed in your portfolio
 
 #CHANGE BELOW
-profile_picture = "Images/DrawnTurtle.png"
-about_me = "Hi! I'm Nazar Khomenko, a first year electrical engineering student at Georgia Tech! I really like cars, drones, and just general things that move!"
+profile_picture = "Images/Profile.png"
+about_me = "I'm SpongeBobe Square Pants. I work at the Krusty Krab and I make fantastic Krabby Patties. "
 
 
 #CHANGE BELOW (OPTIONAL)
@@ -64,7 +64,6 @@ spoken_data = {
 }
 leadership_data = {
     "Civil Air Patrol": (["- Cadet Commander \n - Aerospace Officer"],"Images/puff.jpg"),
-    "FRC Team 8866 Robotics": (["- Intake Lead \n - Marketing Captain"], "Images/robot.jpg"),
 
 }
 activity_data={
